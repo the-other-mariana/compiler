@@ -1,0 +1,20 @@
+análisis de una red de múltiples nodos concurrentes que mandan información proveniente de sensores
+
+porque lo que nos motiva es descubrir una forma de incluir la concurrencia de módulos conectados por internet
+
+El problema de balance de carga frecuente en sistemas distribuidos.
+
+en una de nuestras casas
+
+- prueba de concepto de interconexión de los nodos
+- definición de los sensores a utilizar
+- tecnología web (backend) para el procesado de datos
+
+heraclito y mariana avalos
+
+durante el semestre
+
+-backend fronted and deployment
+- nodos (modulos wifi)
+- sensores de captura de datos (presion arterial)
+- 

@@ -1,0 +1,6 @@
+1:
+https://www.quora.com/How-is-it-possible-to-code-a-compiler-in-only-one-pass-Does-it-have-to-use-a-look-back
+2:
+
+2+:
+https://www.tutorialspoint.com/what-is-the-difference-between-one-pass-compiler-and-multi-pass-compiler
