@@ -76,14 +76,14 @@ for i in range(len(lines)):
                 # for identifiers
                 if idx == 0:
                     # if identifier is spaced
-                    if item[idx].isalpha() and item.isalnum():
+                    if item[idx].isalpha() and item.isidentifier():
                         lexemes['identifiers'].append(tuple([item, idx]))
                         break
                     else:
                         # if identifier is mixed with operators
                         buffer = ""
                         for c in item:
-                            if c.isalnum() and item[0].isalpha():
+                            if (buffer + c).isidentifier() and item[0].isalpha():
                                 buffer += c
                             elif not c.isalnum():
                                 break
@@ -92,10 +92,15 @@ for i in range(len(lines)):
 
                 found = False
                 letter = item[idx]
-
                 # for operators
                 for o in BIN_OPERATORS:
-                    # binary
+                    # binary as last element
+                    if letter == o and idx == (len(item) - 1):
+                        lexemes['operators'].append(tuple([o, idx]))
+                        factor = 1
+                        found = True
+                        break
+                    # binary in a longer string
                     if letter == o and item[idx + 1] != '=' and item[idx + 1] != letter:
                         lexemes['operators'].append(tuple([o, idx]))
                         factor = 1
