@@ -50,6 +50,7 @@ for i in range(len(lines)):
         if found:
             found = False
             break
+        # LACK OF SPACES
         # the only way of lacking spaces and having keywords is if keywords are separated by punctuations
         keys = re.split(r';|\(|\)|\{|}|\[|]|,|:|\.', item)
         print(keys)
@@ -62,20 +63,40 @@ for i in range(len(lines)):
             if found:
                 found = False
                 break
-
         # in case you have operators with no spaces
         if len(item) > 2:
             idx = 0
             found = False
             factor = 1
+            buffer = ""
             while (True):
                 if idx >= len(item):
                     break
+
+                # for identifiers
+                if idx == 0:
+                    # if identifier is spaced
+                    if item[idx].isalpha() and item.isalnum():
+                        lexemes['identifiers'].append(tuple([item, idx]))
+                        break
+                    else:
+                        # if identifier is mixed with operators
+                        buffer = ""
+                        for c in item:
+                            if c.isalnum() and item[0].isalpha():
+                                buffer += c
+                            elif not c.isalnum():
+                                break
+                        lexemes['identifiers'].append(tuple([buffer, idx]))
+                        idx += len(buffer)
+
                 found = False
                 letter = item[idx]
+
+                # for operators
                 for o in BIN_OPERATORS:
                     # binary
-                    if letter == o and item[idx+1] != '=' and item[idx+1] != letter:
+                    if letter == o and item[idx + 1] != '=' and item[idx + 1] != letter:
                         lexemes['operators'].append(tuple([o, idx]))
                         factor = 1
                         found = True
