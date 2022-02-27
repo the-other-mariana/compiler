@@ -63,8 +63,8 @@ for i in range(len(lines)):
             if found:
                 found = False
                 break
-        # in case you have operators with no spaces
-        if len(item) > 2:
+        # in case you have expressions with no spaces
+        if len(item) >= 2:
             idx = 0
             found = False
             factor = 1
@@ -72,9 +72,9 @@ for i in range(len(lines)):
             while (True):
                 if idx >= len(item):
                     break
-
                 # for identifiers
                 if idx == 0:
+
                     # if identifier is spaced
                     if item[idx].isalpha() and item.isidentifier():
                         lexemes['identifiers'].append(tuple([item, idx]))
@@ -89,6 +89,31 @@ for i in range(len(lines)):
                                 break
                         lexemes['identifiers'].append(tuple([buffer, idx]))
                         idx += len(buffer)
+                # for numeric constants
+                v = 0
+                if item[idx].isdigit():
+                    v = v * 10 + int(item[idx])
+                    idx += 1
+                    decimal = False
+                    counter = 0
+                    while idx < len(item):
+                        if item[idx] != '.' and not item[idx].isdigit():
+                            break
+                        if item[idx].isdigit() and not decimal:
+                            peek = item[idx]
+                            v = v * 10 + int(peek)
+                            idx += 1
+                        if item[idx].isdigit() and decimal:
+                            counter += 1
+                            peek = item[idx]
+                            v = v + (int(peek) / (10 ** counter))
+                            idx += 1
+                        if item[idx] == '.':
+                            decimal = True
+                            idx += 1
+                    lexemes['numeric'].append(tuple([v, idx]))
+                    if idx >= len(item):
+                        continue
 
                 found = False
                 letter = item[idx]
