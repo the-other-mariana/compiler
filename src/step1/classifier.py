@@ -47,6 +47,16 @@ for i in range(len(lines)):
             lexemes['libs'].append(tuple([item, i]))
             found = True
             continue
+        if re.match(r'^".*"$', item):
+            # regex for starts and ends with double quotes
+            lexemes['literal'].append(tuple([item.replace('"', ''), i]))
+            found = True
+            continue
+        if re.match(r"^'.*'$", item):
+            # regex for starts and ends with single quotes
+            lexemes['literal'].append(tuple([item.replace("'", ''), i]))
+            found = True
+            continue
         if found:
             found = False
             break
@@ -63,7 +73,7 @@ for i in range(len(lines)):
             if found:
                 found = False
                 break
-        # in case you have expressions with no spaces
+        # in case you have an expression with no spaces
         if len(item) >= 2:
             idx = 0
             found = False
@@ -114,6 +124,23 @@ for i in range(len(lines)):
                     lexemes['numeric'].append(tuple([v, idx]))
                     if idx >= len(item):
                         continue
+                # for string literals
+                opened = False
+                if item[idx] == '"' and not opened:
+                    opened = True
+                    buffer = ""
+                    # start from the second char
+                    idx += 1
+                    while idx < len(item):
+                        if item[idx] == '"':
+                            break
+                        else:
+                            buffer += item[idx]
+                            idx += 1
+                    lexemes['literal'].append(tuple([buffer, idx]))
+                    if idx < (len(item) - 1):
+                        idx += 1
+                    else: break
 
                 found = False
                 letter = item[idx]
