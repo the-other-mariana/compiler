@@ -9,7 +9,6 @@ RESERVED = [
     'unsigned',
     'char',
     'string',
-    'printf',
     'using',
     'namespace',
     'std',

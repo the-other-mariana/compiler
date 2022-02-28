@@ -21,6 +21,9 @@ for i in range(len(lines)):
     lines[i] = lines[i].replace('\n', '')
     items = lines[i].split()
     found = False
+    opened = False
+    lit_buffer = ""
+
     for item in items:
         found = False
         if item in RESERVED:
@@ -62,20 +65,22 @@ for i in range(len(lines)):
             break
         # LACK OF SPACES
         # the only way of lacking spaces and having keywords is if keywords are separated by punctuations
+        idx = 0
         keys = re.split(r';|\(|\)|\{|}|\[|]|,|:|\.', item)
         print(keys)
         for k in keys:
             found = False
             if k in RESERVED:
                 lexemes['reserved'].append(tuple([k, i]))
+                idx += len(k) + 1
                 found = True
                 continue
             if found:
                 found = False
                 break
         # in case you have an expression with no spaces
-        if len(item) >= 2:
-            idx = 0
+        if len(item) >= 1:
+
             found = False
             factor = 1
             buffer = ""
@@ -83,22 +88,20 @@ for i in range(len(lines)):
                 if idx >= len(item):
                     break
                 # for identifiers
-                if idx == 0:
-
-                    # if identifier is spaced
-                    if item[idx].isalpha() and item.isidentifier():
-                        lexemes['identifiers'].append(tuple([item, idx]))
+                buffer = ""
+                for c in item[idx:]:
+                    if (buffer + c).isidentifier():
+                        buffer += c
+                    elif not c.isalnum():
                         break
-                    else:
-                        # if identifier is mixed with operators
-                        buffer = ""
-                        for c in item:
-                            if (buffer + c).isidentifier() and item[0].isalpha():
-                                buffer += c
-                            elif not c.isalnum():
-                                break
-                        lexemes['identifiers'].append(tuple([buffer, idx]))
-                        idx += len(buffer)
+                if buffer != "" and buffer not in RESERVED:
+                    lexemes['identifiers'].append(tuple([buffer, idx]))
+                    idx += len(buffer)
+                if idx >= len(item):
+                    continue
+                if item[idx] ==',':
+                    print("hello")
+
                 # for numeric constants
                 v = 0
                 if item[idx].isdigit():
@@ -125,22 +128,30 @@ for i in range(len(lines)):
                     if idx >= len(item):
                         continue
                 # for string literals
-                opened = False
                 if item[idx] == '"' and not opened:
                     opened = True
-                    buffer = ""
                     # start from the second char
                     idx += 1
                     while idx < len(item):
                         if item[idx] == '"':
+                            lexemes['literal'].append(tuple([lit_buffer, idx]))
+                            lit_buffer = ""
+                            opened = False
                             break
                         else:
-                            buffer += item[idx]
-                            idx += 1
-                    lexemes['literal'].append(tuple([buffer, idx]))
-                    if idx < (len(item) - 1):
-                        idx += 1
-                    else: break
+                            lit_buffer += item[idx]
+                            if idx < (len(item) - 1):
+                                idx += 1
+                            else:
+                                lit_buffer += " "
+                                idx += 1
+                                break
+                if idx >= len(item):
+                    continue
+                if item[idx] == '"' and opened:
+                    lexemes['literal'].append(tuple([lit_buffer, idx]))
+                    lit_buffer = ""
+                    opened = False
 
                 found = False
                 letter = item[idx]
