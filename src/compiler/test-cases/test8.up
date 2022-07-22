@@ -1,0 +1,11 @@
+Constantes c := 10;
+Variables response:Alfabetico;
+Prototipos
+
+Fin de Prototipos;
+
+Programa
+  Imprimenl("are we friends? Y/N");
+  Lee(response);
+
+Fin de programa.

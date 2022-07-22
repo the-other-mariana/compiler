@@ -1,0 +1,6 @@
+c,C,E,0,0,#,
+alfa,V,A,0,0,#,
+beta,V,A,0,0,#,
+@
+1 LIT "hello world!", 0
+2 OPR 0, 21

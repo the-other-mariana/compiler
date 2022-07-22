@@ -1,0 +1,4 @@
+------------------------------------
+Line      Error       Desc      Line (Exp)
+------------------------------------
+10	;	<semantic>Access to undeclared variable inside statement

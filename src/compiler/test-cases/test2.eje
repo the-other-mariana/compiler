@@ -1,0 +1,113 @@
+MAX,C,E,0,0,#,
+PI,C,R,0,0,#,
+Log1,V,L,0,0,#,
+Log2,V,L,0,0,#,
+Alfa,V,A,0,0,#,
+Beta,V,A,0,0,#,
+r,V,R,0,0,#,
+s,V,R,0,0,#,
+t,V,R,0,0,#,
+i,V,E,0,0,#,
+j,V,E,0,0,#,
+k,V,E,0,0,P,E,0,0,LeeVec,P,E,0,0,OrdVec,P,E,0,0,MulMat,#,
+matriz,V,E,30,30,#,
+Vector,V,E,30,0,#,
+n,V,E,2,0,P,E,0,0,FacRec,P,E,0,0,FacIter,#,
+FacRec,F,E,0,0,#,
+FacIter,F,E,0,0,#,
+LeeVec,P,I,0,0,#,
+LeeMat,P,I,0,0,#,
+OrdVec,P,I,0,0,#,
+ImpMat,P,I,0,0,#,
+MulMat,P,I,0,0,#,
+opc1,V,E,0,0,#,
+Facto,V,E,0,0,#,
+Entero,V,E,0,0,#,
+Temp,V,E,0,0,#,
+entero,V,E,0,0,#,
+@
+1 LIT "Dame un numero: ", 0
+2 OPR 0, 20
+3 OPR n, 19
+4 LIT "Factorial R]recursivo I]interactivo S]salir: ", 0
+5 OPR 0, 20
+6 LIT FacRec, 0
+7 OPR 0, 21
+8 LIT "Opcion Invalida!!!", 0
+9 OPR 0, 21
+LIT "r", 0
+LIT "R", 0
+LIT "i", 0
+LIT "S", 0
+OPR 0, 14
+LIT "s", 0
+OPR 0, 14
+OPR 0, 16
+LOD n, 0
+LOD n, 0
+OPR 0, 9
+LOD n, 0
+LOD FacRec, 0
+LOD n, 0
+LOD Entero, 0
+LOD FacRec, 0
+LOD n, 0
+LOD Facto, 0
+LOD i, 0
+LOD Entero, 0
+LOD FacIter, 0
+LOD PI, 0
+LIT " ", 0
+OPR 0, 14
+OPR 0, 9
+OPR 0, 14
+OPR 0, 10
+OPR 0, 14
+OPR 0, 14
+10 LIT "Dame elementos de Vector( N ) o Grado de Matriz( NxN ): ", 0
+11 OPR 0, 20
+12 OPR n, 19
+LOD n, 0
+LOD LeeVec, 0
+LOD n, 0
+LOD OrdVec, 0
+LOD n, 0
+LOD n, 0
+LOD LeeMat, 0
+LOD n, 0
+LOD n, 0
+LOD ImpMat, 0
+LOD i, 0
+OPR 0, 14
+13 LIT i, 0
+14 OPR 0, 21
+LOD i, 0
+OPR 0, 14
+15 LIT "]: ", 0
+16 OPR 0, 20
+17 LOD i, 0
+18 STO 0, Vector
+LOD LeeVec, 0
+LOD i, 0
+LOD k, 0
+LOD i, 0
+LOD j, 0
+OPR 0, 10
+19 LIT i, 0
+20 OPR 0, 21
+21 LIT "]: ", 0
+22 OPR 0, 20
+23 LIT j, 0
+24 OPR 0, 21
+25 LIT "Dame Radio = ", 0
+26 OPR 0, 20
+27 OPR r, 19
+28 LIT "Dame Altura= ", 0
+29 OPR 0, 20
+30 OPR s, 19
+31 LIT "Dame tu nombre: ", 0
+32 OPR 0, 20
+33 LIT "Dame tu Apellido: ", 0
+34 OPR 0, 20
+35 LIT " ya la pasaste!!!", 0
+36 OPR 0, 21

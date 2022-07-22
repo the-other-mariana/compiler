@@ -1,0 +1,296 @@
+------------------------------------
+Line      Error       Desc      Line (Exp)
+------------------------------------
+0	Faciter	<semantic>Unable to print value of undeclared variable 'Faciter'
+38	*	<semantic>Access to undeclared variable inside statement
+38	-	<semantic>Access to undeclared variable inside statement
+38	1	<semantic>Access to undeclared variable inside statement
+38	1	<semantic>Access to undeclared variable inside statement
+38	2	<semantic>Access to undeclared variable inside statement
+38	entero	<semantic>Access to undeclared variable inside statement
+38	;	<semantic>Access to undeclared variable inside statement
+38	proc	<semantic>Access to undeclared variable inside statement
+38	Selecciona	<semantic>Access to undeclared variable inside statement
+38	cuando	<semantic>Access to undeclared variable inside statement
+38	;	<semantic>Access to undeclared variable inside statement
+38	;	<semantic>Access to undeclared variable inside statement
+45	n	<semantic>n: Variable redeclaration
+70	b	<semantic>Access to undeclared variable inside statement
+70	a	<semantic>Access to undeclared variable inside statement
+70	3	<semantic>Access to undeclared variable inside statement
+70	b	<semantic>Access to undeclared variable inside statement
+70	a	<semantic>Access to undeclared variable inside statement
+70	2	<semantic>Access to undeclared variable inside statement
+70	b	<semantic>Access to undeclared variable inside statement
+70	a	<semantic>Access to undeclared variable inside statement
+70	1	<semantic>Access to undeclared variable inside statement
+70	real	<semantic>Access to undeclared variable inside statement
+70	entero	<semantic>Access to undeclared variable inside statement
+70	;	<semantic>Access to undeclared variable inside statement
+70	a	<semantic>Access to undeclared variable inside statement
+70	b	<semantic>Access to undeclared variable inside statement
+70	;	<semantic>Access to undeclared variable inside statement
+70	func	<semantic>Access to undeclared variable inside statement
+70	Concat	<semantic>Access to undeclared variable inside statement
+70	Alfabetico	<semantic>Access to undeclared variable inside statement
+70	+	<semantic>Access to undeclared variable inside statement
+70	+	<semantic>Access to undeclared variable inside statement
+70	b	<semantic>Access to undeclared variable inside statement
+70	a	<semantic>Access to undeclared variable inside statement
+70	alfabetico	<semantic>Access to undeclared variable inside statement
+70	a	<semantic>Access to undeclared variable inside statement
+70	b	<semantic>Access to undeclared variable inside statement
+70	;	<semantic>Access to undeclared variable inside statement
+70	func	<semantic>Access to undeclared variable inside statement
+70	VolCil	<semantic>Access to undeclared variable inside statement
+70	Real	<semantic>Access to undeclared variable inside statement
+70	*	<semantic>Access to undeclared variable inside statement
+70	*	<semantic>Access to undeclared variable inside statement
+70	altura	<semantic>Access to undeclared variable inside statement
+70	^	<semantic>Access to undeclared variable inside statement
+70	2	<semantic>Access to undeclared variable inside statement
+70	radio	<semantic>Access to undeclared variable inside statement
+70	Real	<semantic>Access to undeclared variable inside statement
+70	radio	<semantic>Access to undeclared variable inside statement
+70	altura	<semantic>Access to undeclared variable inside statement
+70	;	<semantic>Access to undeclared variable inside statement
+70	func	<semantic>Access to undeclared variable inside statement
+70	*	<semantic>Access to undeclared variable inside statement
+70	2	<semantic>Access to undeclared variable inside statement
+70	1	<semantic>Access to undeclared variable inside statement
+70	func	<semantic>Access to undeclared variable inside statement
+89	5	<semantic>Access to undeclared variable inside statement
+89	10	<semantic>Access to undeclared variable inside statement
+89	1	<semantic>Access to undeclared variable inside statement
+89	proc	<semantic>Access to undeclared variable inside statement
+89	LeeVecMat	<semantic>Access to undeclared variable inside statement
+89	Impvec	<semantic>Access to undeclared variable inside statement
+89	func	<semantic>Access to undeclared variable inside statement
+89	Compara	<semantic>Access to undeclared variable inside statement
+89	Logico	<semantic>Access to undeclared variable inside statement
+89	;	<semantic>Access to undeclared variable inside statement
+94	7	<semantic>Access to undeclared variable inside statement
+94	1	<semantic>Access to undeclared variable inside statement
+109	k	<semantic>k: Variable redeclaration
+113	+	<semantic>Access to undeclared variable inside statement
+113	1	<semantic>Access to undeclared variable inside statement
+113	1	<semantic>Access to undeclared variable inside statement
+113	proc	<semantic>Access to undeclared variable inside statement
+128	Matriz	<semantic>Unable to store input in undeclared variable 'Matriz'
+0	Compara	<semantic>Unable to print value of undeclared variable 'Compara'
+155	alfa	<semantic>Unable to store input in undeclared variable 'alfa'
+157	beta	<semantic>Unable to store input in undeclared variable 'beta'
+81	valor	<syntax>Syntax error at 'valor' (VALOR), in line: 81, col 1936	   MulMat(n, valor);
+
+81	valor	<syntax>Expected logical expression in function call	   MulMat(n, valor);
+
+88	Inicio	<syntax>Syntax error at 'Inicio' (INICIO), in line: 88, col 2048	   Inicio
+
+88	Inicio	<syntax>Expected incr/decr in desde	   Inicio
+
+101	hata	<syntax>Syntax error at 'hata' (IDENT), in line: 101, col 2293	   Desde el valor de i:=1 hata n
+
+102	Inicio	<syntax>Expected PUNTO_COMA at the end of line	   Inicio
+
+101	n	<syntax>Expected PUNTO_COMA at the end of line	   Desde el valor de i:=1 hata n
+
+101	hata	<syntax>Expected PUNTO_COMA at the end of line	   Desde el valor de i:=1 hata n
+
+105	;	<syntax>Syntax error at ';' (PUNTO_COMA), in line: 105, col 2374	   Fin;
+
+105	;	<syntax>Expected PUNTO_COMA at the end of line	   Fin;
+
+111	(	<syntax>Syntax error at '(' (PAREN_EMPIEZA), in line: 111, col 2492	   Desde el valor de i:=1 hasta (k-1)
+
+111	(	<syntax>Expected incr/decr in desde	   Desde el valor de i:=1 hasta (k-1)
+
+113	Si	<syntax>Syntax error at 'Si' (SI), in line: 113, col 2546	         Si (Vector[i]>Vector[j]) hacer
+
+113	Si	<syntax>Expected incr/decr in desde	         Si (Vector[i]>Vector[j]) hacer
+
+114	Fin	<syntax>Syntax error at 'Fin' (FIN), in line: 114, col 2577	Fin de Procedimiento;
+
+114	Fin	<syntax>Expected PUNTO_COMA at the end of line	Fin de Procedimiento;
+
+111	-	<syntax>Expected PUNTO_COMA at the end of line	   Desde el valor de i:=1 hasta (k-1)
+
+119	Imprimenl	<syntax>Syntax error at 'Imprimenl' (IMPRIMENL), in line: 119, col 2678	      Imprimenl("Vector[",i,"]= ", Vector[i]);
+
+119	Imprimenl	<syntax>Expected incr/decr in desde	      Imprimenl("Vector[",i,"]= ", Vector[i]);
+
+125	Desde	<syntax>Syntax error at 'Desde' (DESDE), in line: 125, col 2820	      Desde el valor de j:=1 hasta n
+
+126	Inicio	<syntax>Syntax error at 'Inicio' (INICIO), in line: 126, col 2857	      Inicio
+
+126	Inicio	<syntax>Expected incr/decr in desde	      Inicio
+
+125	Desde	<syntax>Expected incr/decr in desde	      Desde el valor de j:=1 hasta n
+
+135	Desde	<syntax>Syntax error at 'Desde' (DESDE), in line: 135, col 3054	      Desde el valor de j:=1 hasta k
+
+136	Matriz	<syntax>Syntax error at 'Matriz' (IDENT), in line: 136, col 3094	         Matriz[i][j]:=Matriz[i][j]*v;
+
+136	Matriz	<syntax>Expected incr/decr in desde	         Matriz[i][j]:=Matriz[i][j]*v;
+
+135	Desde	<syntax>Expected incr/decr in desde	      Desde el valor de j:=1 hasta k
+
+142	Desde	<syntax>Syntax error at 'Desde' (DESDE), in line: 142, col 3225	      Desde el valor de j:=1 hasta k
+
+143	Imprimenl	<syntax>Syntax error at 'Imprimenl' (IMPRIMENL), in line: 143, col 3265	         Imprimenl("Matriz[", i, "][", j, "]= ", Matriz[i][j]);
+
+143	Imprimenl	<syntax>Expected incr/decr in desde	         Imprimenl("Matriz[", i, "][", j, "]= ", Matriz[i][j]);
+
+142	Desde	<syntax>Expected incr/decr in desde	      Desde el valor de j:=1 hasta k
+
+151	;	<syntax>Syntax error at ';' (PUNTO_COMA), in line: 151, col 3504	   Imprimenl("El Volum del Cilindro= ", VolCil(r, s);
+
+151	;	<syntax>Expected parenthesis at the end of IMPRIMENL statement 	   Imprimenl("El Volum del Cilindro= ", VolCil(r, s);
+
+------------------------------------
+Line      Error       Desc      Line (Exp)
+------------------------------------
+0	Faciter	<semantic>Unable to print value of undeclared variable 'Faciter'
+38	*	<semantic>Access to undeclared variable inside statement
+38	-	<semantic>Access to undeclared variable inside statement
+38	1	<semantic>Access to undeclared variable inside statement
+38	1	<semantic>Access to undeclared variable inside statement
+38	2	<semantic>Access to undeclared variable inside statement
+38	entero	<semantic>Access to undeclared variable inside statement
+38	;	<semantic>Access to undeclared variable inside statement
+38	proc	<semantic>Access to undeclared variable inside statement
+38	Selecciona	<semantic>Access to undeclared variable inside statement
+38	cuando	<semantic>Access to undeclared variable inside statement
+38	;	<semantic>Access to undeclared variable inside statement
+38	;	<semantic>Access to undeclared variable inside statement
+45	n	<semantic>n: Variable redeclaration
+70	b	<semantic>Access to undeclared variable inside statement
+70	a	<semantic>Access to undeclared variable inside statement
+70	3	<semantic>Access to undeclared variable inside statement
+70	b	<semantic>Access to undeclared variable inside statement
+70	a	<semantic>Access to undeclared variable inside statement
+70	2	<semantic>Access to undeclared variable inside statement
+70	b	<semantic>Access to undeclared variable inside statement
+70	a	<semantic>Access to undeclared variable inside statement
+70	1	<semantic>Access to undeclared variable inside statement
+70	real	<semantic>Access to undeclared variable inside statement
+70	entero	<semantic>Access to undeclared variable inside statement
+70	;	<semantic>Access to undeclared variable inside statement
+70	a	<semantic>Access to undeclared variable inside statement
+70	b	<semantic>Access to undeclared variable inside statement
+70	;	<semantic>Access to undeclared variable inside statement
+70	func	<semantic>Access to undeclared variable inside statement
+70	Concat	<semantic>Access to undeclared variable inside statement
+70	Alfabetico	<semantic>Access to undeclared variable inside statement
+70	+	<semantic>Access to undeclared variable inside statement
+70	+	<semantic>Access to undeclared variable inside statement
+70	b	<semantic>Access to undeclared variable inside statement
+70	a	<semantic>Access to undeclared variable inside statement
+70	alfabetico	<semantic>Access to undeclared variable inside statement
+70	a	<semantic>Access to undeclared variable inside statement
+70	b	<semantic>Access to undeclared variable inside statement
+70	;	<semantic>Access to undeclared variable inside statement
+70	func	<semantic>Access to undeclared variable inside statement
+70	VolCil	<semantic>Access to undeclared variable inside statement
+70	Real	<semantic>Access to undeclared variable inside statement
+70	*	<semantic>Access to undeclared variable inside statement
+70	*	<semantic>Access to undeclared variable inside statement
+70	altura	<semantic>Access to undeclared variable inside statement
+70	^	<semantic>Access to undeclared variable inside statement
+70	2	<semantic>Access to undeclared variable inside statement
+70	radio	<semantic>Access to undeclared variable inside statement
+70	Real	<semantic>Access to undeclared variable inside statement
+70	radio	<semantic>Access to undeclared variable inside statement
+70	altura	<semantic>Access to undeclared variable inside statement
+70	;	<semantic>Access to undeclared variable inside statement
+70	func	<semantic>Access to undeclared variable inside statement
+70	*	<semantic>Access to undeclared variable inside statement
+70	2	<semantic>Access to undeclared variable inside statement
+70	1	<semantic>Access to undeclared variable inside statement
+70	func	<semantic>Access to undeclared variable inside statement
+89	5	<semantic>Access to undeclared variable inside statement
+89	10	<semantic>Access to undeclared variable inside statement
+89	1	<semantic>Access to undeclared variable inside statement
+89	proc	<semantic>Access to undeclared variable inside statement
+89	LeeVecMat	<semantic>Access to undeclared variable inside statement
+89	Impvec	<semantic>Access to undeclared variable inside statement
+89	func	<semantic>Access to undeclared variable inside statement
+89	Compara	<semantic>Access to undeclared variable inside statement
+89	Logico	<semantic>Access to undeclared variable inside statement
+89	;	<semantic>Access to undeclared variable inside statement
+94	7	<semantic>Access to undeclared variable inside statement
+94	1	<semantic>Access to undeclared variable inside statement
+109	k	<semantic>k: Variable redeclaration
+113	+	<semantic>Access to undeclared variable inside statement
+113	1	<semantic>Access to undeclared variable inside statement
+113	1	<semantic>Access to undeclared variable inside statement
+113	proc	<semantic>Access to undeclared variable inside statement
+128	Matriz	<semantic>Unable to store input in undeclared variable 'Matriz'
+0	Compara	<semantic>Unable to print value of undeclared variable 'Compara'
+155	alfa	<semantic>Unable to store input in undeclared variable 'alfa'
+157	beta	<semantic>Unable to store input in undeclared variable 'beta'
+81	valor	<syntax>Syntax error at 'valor' (VALOR), in line: 81, col 1936	   MulMat(n, valor);
+
+81	valor	<syntax>Expected logical expression in function call	   MulMat(n, valor);
+
+88	Inicio	<syntax>Syntax error at 'Inicio' (INICIO), in line: 88, col 2048	   Inicio
+
+88	Inicio	<syntax>Expected incr/decr in desde	   Inicio
+
+101	hata	<syntax>Syntax error at 'hata' (IDENT), in line: 101, col 2293	   Desde el valor de i:=1 hata n
+
+102	Inicio	<syntax>Expected PUNTO_COMA at the end of line	   Inicio
+
+101	n	<syntax>Expected PUNTO_COMA at the end of line	   Desde el valor de i:=1 hata n
+
+101	hata	<syntax>Expected PUNTO_COMA at the end of line	   Desde el valor de i:=1 hata n
+
+105	;	<syntax>Syntax error at ';' (PUNTO_COMA), in line: 105, col 2374	   Fin;
+
+105	;	<syntax>Expected PUNTO_COMA at the end of line	   Fin;
+
+111	(	<syntax>Syntax error at '(' (PAREN_EMPIEZA), in line: 111, col 2492	   Desde el valor de i:=1 hasta (k-1)
+
+111	(	<syntax>Expected incr/decr in desde	   Desde el valor de i:=1 hasta (k-1)
+
+113	Si	<syntax>Syntax error at 'Si' (SI), in line: 113, col 2546	         Si (Vector[i]>Vector[j]) hacer
+
+113	Si	<syntax>Expected incr/decr in desde	         Si (Vector[i]>Vector[j]) hacer
+
+114	Fin	<syntax>Syntax error at 'Fin' (FIN), in line: 114, col 2577	Fin de Procedimiento;
+
+114	Fin	<syntax>Expected PUNTO_COMA at the end of line	Fin de Procedimiento;
+
+111	-	<syntax>Expected PUNTO_COMA at the end of line	   Desde el valor de i:=1 hasta (k-1)
+
+119	Imprimenl	<syntax>Syntax error at 'Imprimenl' (IMPRIMENL), in line: 119, col 2678	      Imprimenl("Vector[",i,"]= ", Vector[i]);
+
+119	Imprimenl	<syntax>Expected incr/decr in desde	      Imprimenl("Vector[",i,"]= ", Vector[i]);
+
+125	Desde	<syntax>Syntax error at 'Desde' (DESDE), in line: 125, col 2820	      Desde el valor de j:=1 hasta n
+
+126	Inicio	<syntax>Syntax error at 'Inicio' (INICIO), in line: 126, col 2857	      Inicio
+
+126	Inicio	<syntax>Expected incr/decr in desde	      Inicio
+
+125	Desde	<syntax>Expected incr/decr in desde	      Desde el valor de j:=1 hasta n
+
+135	Desde	<syntax>Syntax error at 'Desde' (DESDE), in line: 135, col 3054	      Desde el valor de j:=1 hasta k
+
+136	Matriz	<syntax>Syntax error at 'Matriz' (IDENT), in line: 136, col 3094	         Matriz[i][j]:=Matriz[i][j]*v;
+
+136	Matriz	<syntax>Expected incr/decr in desde	         Matriz[i][j]:=Matriz[i][j]*v;
+
+135	Desde	<syntax>Expected incr/decr in desde	      Desde el valor de j:=1 hasta k
+
+142	Desde	<syntax>Syntax error at 'Desde' (DESDE), in line: 142, col 3225	      Desde el valor de j:=1 hasta k
+
+143	Imprimenl	<syntax>Syntax error at 'Imprimenl' (IMPRIMENL), in line: 143, col 3265	         Imprimenl("Matriz[", i, "][", j, "]= ", Matriz[i][j]);
+
+143	Imprimenl	<syntax>Expected incr/decr in desde	         Imprimenl("Matriz[", i, "][", j, "]= ", Matriz[i][j]);
+
+142	Desde	<syntax>Expected incr/decr in desde	      Desde el valor de j:=1 hasta k
+
+151	;	<syntax>Syntax error at ';' (PUNTO_COMA), in line: 151, col 3504	   Imprimenl("El Volum del Cilindro= ", VolCil(r, s);
+
+151	;	<syntax>Expected parenthesis at the end of IMPRIMENL statement 	   Imprimenl("El Volum del Cilindro= ", VolCil(r, s);
+

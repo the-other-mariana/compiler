@@ -1,0 +1,6 @@
+c,C,E,0,0,#,
+response,V,A,0,0,#,
+@
+1 LIT "are we friends? Y/N", 0
+2 OPR 0, 21
+3 OPR response, 19

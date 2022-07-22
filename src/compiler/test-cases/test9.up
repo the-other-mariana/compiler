@@ -1,0 +1,12 @@
+Constantes c := 10;
+Variables response:Alfabetico;
+Prototipos
+
+Fin de Prototipos;
+
+Programa
+Imprimenl("do you like burgers? y/n");
+Lee(response);
+Si (response = "y") hacer
+    Imprime("Me too");
+Fin de programa.

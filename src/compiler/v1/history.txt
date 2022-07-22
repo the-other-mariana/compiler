@@ -1,0 +1,2212 @@
+[found] gpo_const_int
+deque(['MAX', 'E', '30'])
+[found] gpo_const_float
+deque(['PI', 'R', '3.141592'])
+[found] constantes
+[found] simple termino 2
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] valor
+[found] dimension [ None ]
+[found] simple termino MAX
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] valor
+[found] dimension [ None ]
+[found] simple termino MAX
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] valor
+[found] simple termino MAX
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] valor
+[found] dimension [ None ]
+[found] dimension [ None ]
+[found] gpoids_inner_dim
+[found] gpoids_inner_dim
+[found] gpoids_inner_dim
+[found] gpoids
+[found] gpoids
+[found] gpoids
+[found] gpoids
+[found] gpo_vars
+LOGICO L
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k', 'j', 'i', ';', 't', 's', 'r', ';', 'Beta', 'Alfa', ';', 'Log2', 'Log1'])
+deque([])
+Log1,V,L,[0 0],None,{},#,
+
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k', 'j', 'i', ';', 't', 's', 'r', ';', 'Beta', 'Alfa', ';', 'Log2'])
+deque([])
+Log2,V,L,[0 0],None,{},#,
+
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k', 'j', 'i', ';', 't', 's', 'r', ';', 'Beta', 'Alfa', ';'])
+deque([])
+[found] gpo_vars
+ALFABETICO A
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k', 'j', 'i', ';', 't', 's', 'r', ';', 'Beta', 'Alfa'])
+deque([])
+Alfa,V,A,[0 0],None,{},#,
+
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k', 'j', 'i', ';', 't', 's', 'r', ';', 'Beta'])
+deque([])
+Beta,V,A,[0 0],None,{},#,
+
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k', 'j', 'i', ';', 't', 's', 'r', ';'])
+deque([])
+[found] gpo_vars
+REAL R
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k', 'j', 'i', ';', 't', 's', 'r'])
+deque([])
+r,V,R,[0 0],None,{},#,
+
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k', 'j', 'i', ';', 't', 's'])
+deque([])
+s,V,R,[0 0],None,{},#,
+
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k', 'j', 'i', ';', 't'])
+deque([])
+t,V,R,[0 0],None,{},#,
+
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k', 'j', 'i', ';'])
+deque([])
+[found] gpo_vars
+ENTERO E
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k', 'j', 'i'])
+deque([])
+i,V,E,[0 0],None,{},#,
+
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k', 'j'])
+deque([])
+j,V,E,[0 0],None,{},#,
+
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY', 'k'])
+deque([])
+k,V,E,[0 0],None,{},#,
+
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY', 'n', 'ARRAY'])
+deque([])
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY', 'Vector', 'ARRAY'])
+deque([<commons.Node object at 0x0000014CE0DD6C10>])
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim', 'matriz', 'ARRAY'])
+deque([<commons.Node object at 0x0000014CE0DD6C10>, <commons.Node object at 0x0000014CE0DD6DF0>])
+deque(['2', 'dim', 'MAX', 'dim', 'MAX', 'MAX', 'dim', 'dim'])
+deque([<commons.Node object at 0x0000014CE0DD6C10>, <commons.Node object at 0x0000014CE0DD6DF0>, <commons.Node object at 0x0000014CE0DD6AC0>])
+matriz,V,E,[30 30],None,{},#,
+
+deque(['2', 'dim', 'MAX', 'dim'])
+deque([<commons.Node object at 0x0000014CE0DD6C10>, <commons.Node object at 0x0000014CE0DD6DF0>])
+Vector,V,E,[30  0],None,{},#,
+
+deque(['2', 'dim'])
+deque([<commons.Node object at 0x0000014CE0DD6C10>])
+n,V,E,[2 0],None,{},#,
+
+[found] variables
+[found] params
+[found] funcproc
+start deque([';', 'n', 'Entero', 'Entero', 'FacRec', 'protfunc'])
+deque([';', 'n'])
+deque([';'])
+end deque([])
+[found] params
+[found] funcproc
+start deque([';', 'n', 'Entero', 'Entero', 'FacIter', 'protfunc'])
+deque([';', 'n'])
+deque([';'])
+end deque([])
+[found] params
+[found] procedimiento prototype
+deque([';', 'k', 'Entero', 'LeeVec', 'protproc'])
+deque([';', 'k'])
+deque([';'])
+[found] params
+[found] procedimiento prototype
+deque([';', 'K', 'Entero', 'LeeMat', 'protproc'])
+deque([';', 'K'])
+deque([';'])
+[found] params
+[found] procedimiento prototype
+deque([';', 'k', 'Entero', 'OrdVec', 'protproc'])
+deque([';', 'k'])
+deque([';'])
+[found] params
+[found] procedimiento prototype
+deque([';', 'K', 'Entero', 'ImpMat', 'protproc'])
+deque([';', 'K'])
+deque([';'])
+[found] params
+[found] procedimiento prototype
+deque([';', 'v', 'k', 'Entero', 'MulMat', 'protproc'])
+deque([';', 'v', 'k'])
+deque([';', 'v'])
+deque([';'])
+[found] function prototype
+[found] gpoids_dim opc None
+[found] gpo_vars
+ENTERO E
+deque(['opc'])
+deque([])
+opc,V,E,[0 0],None,{},#,
+
+[found] variables
+[found] begin (
+begin deque([])
+[found] simple termino "Dame un numero: "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] imprime func
+b4 deque(['"Dame un numero: "'])
+deque([';', '"Dame un numero: "', 'IMPRIME', ';'])
+deque([';', '"Dame un numero: "', 'IMPRIME', ';'])
+[found] estatuto
+[found] lee n )
+[found] estatuto
+[found] begin (
+begin deque([])
+[found] simple termino "Factorial R]recursivo I]interactivo S]salir: "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] imprime func
+b4 deque(['"Factorial R]recursivo I]interactivo S]salir: "'])
+deque([';', '"Factorial R]recursivo I]interactivo S]salir: "', 'IMPRIME', ';'])
+deque([';', '"Factorial R]recursivo I]interactivo S]salir: "', 'IMPRIME', ';'])
+[found] estatuto
+[found] lee opc )
+[found] estatuto
+[found] begin (
+begin deque([';', '"r"', '"R"'])
+[found] simple termino "Factorial Recursivo de "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino " es= "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] lfunc
+[found] complex termino
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] imprimenl func
+b4 deque([';', '"r"', '"R"', ';', '"Factorial Recursivo de "', 'n', '" es= "', 'n', 'FacRec'])
+deque([';', '"r"', '"R"', ';', '"Factorial Recursivo de "', 'n', '" es= "', 'n', 'FacRec', 'IMPRIMENL', ';'])
+[found] estatuto
+[found] bckesp
+[found] begin (
+begin deque([';', '"r"', '"R"', ';', '"i"', '"I"'])
+[found] simple termino "Factorial Iterativo de "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino " es= "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] lfunc
+[found] complex termino
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] imprimenl func
+b4 deque([';', '"r"', '"R"', ';', '"i"', '"I"', ';', '"Factorial Iterativo de "', 'n', '" es= "', 'n', 'Faciter'])
+deque([';', '"r"', '"R"', ';', '"i"', '"I"', ';', '"Factorial Iterativo de "', 'n', '" es= "', 'n', 'Faciter', 'IMPRIMENL', ';'])
+[found] estatuto
+[found] bckesp
+[found] gposea
+[found] gposea
+[found] simple termino opc
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino "S"
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] simple termino opc
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino "s"
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] opy
+[found] exprlog
+[found] begin (
+begin deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA', 'opc', '"S"', '<>', 'opc', '"s"', '<>', 'Y'])
+[found] simple termino "Opcion Invalida!!!"
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] imprimenl func
+b4 deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA', 'opc', '"S"', '<>', 'opc', '"s"', '<>', 'Y', ';', '"Opcion Invalida!!!"'])
+deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA', 'opc', '"S"', '<>', 'opc', '"s"', '<>', 'Y', ';', '"Opcion Invalida!!!"', 'IMPRIMENL', ';'])
+[found] estatuto
+[found] bckesp
+[found] sino
+[found] si
+deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA', 'opc', '"S"', '<>', 'opc', '"s"', '<>', 'Y', 'SI'])
+deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA', 'opc', '"S"', '<>', 'opc', '"s"', '<>', 'Y'])
+deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA', 'opc', '"S"', '<>', 'opc', '"s"', '<>', 'Y'])
+deque([])
+deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA', 'opc', '"S"', '<>', 'opc', '"s"', '<>'])
+deque(['OPR 0, 15\n'])
+deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA', 'opc', '"S"', '<>', 'opc', '"s"'])
+deque(['OPR 0, 15\n', 'OPR 0, 13\n'])
+deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA', 'opc', '"S"', '<>', 'opc'])
+deque(['OPR 0, 15\n', 'OPR 0, 13\n', 'LIT "s", 0\n'])
+deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA', 'opc', '"S"', '<>'])
+deque(['OPR 0, 15\n', 'OPR 0, 13\n', 'LIT "s", 0\n', 'LOD opc, 0\n'])
+deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA', 'opc', '"S"'])
+deque(['OPR 0, 15\n', 'OPR 0, 13\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 13\n'])
+deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA', 'opc'])
+deque(['OPR 0, 15\n', 'OPR 0, 13\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 13\n', 'LIT "S", 0\n'])
+deque([';', '"r"', '"R"', ';', '"i"', '"I"', 'SEA', 'SEA'])
+deque(['OPR 0, 15\n', 'OPR 0, 13\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 13\n', 'LIT "S", 0\n', 'LOD opc, 0\n'])
+deque([])
+[found] estatuto
+[found] bckesp
+[found] otro
+[found] cuando
+[found] estatuto
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] simple termino opc
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino "S"
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] simple termino opc
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino "s"
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] exprlog
+[found] repetir
+[found] estatuto
+[found] block
+[found] full procedimiento
+[found] params
+[found] variables
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino 2
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] regresa
+[found] estatuto
+[found] bckesp
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] lfunc
+[found] complex termino
+[found] signo
+[found] exponent
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] regresa
+[found] estatuto
+[found] bckesp
+[found] sino
+[found] si
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero', 'n', '2', '<', '1', 'n', '1', '-', 'FacRec', 'n', '*', 'SI'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero', 'n', '2', '<', '1', 'n', '1', '-', 'FacRec', 'n', '*'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero', 'n', '2', '<', '1', 'n', '1', '-', 'FacRec', 'n', '*'])
+deque([])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero', 'n', '2', '<', '1', 'n', '1', '-', 'FacRec', 'n'])
+deque([None])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero', 'n', '2', '<', '1', 'n', '1', '-', 'FacRec'])
+deque([None, 'LOD n, 0\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero', 'n', '2', '<', '1', 'n', '1', '-'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero', 'n', '2', '<', '1', 'n', '1'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero', 'n', '2', '<', '1', 'n'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero', 'n', '2', '<', '1'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero', 'n', '2', '<'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero', 'n', '2'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero', 'n'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n', 'entero'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';', 'n'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc', ';'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona', 'proc'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O', 'Selecciona'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '=', 'O'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"', '='])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc', '"s"'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '=', 'opc'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n', 'LIT "s", 0\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"', '='])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n', 'LIT "s", 0\n', 'LOD opc, 0\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc', '"S"'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 14\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando', 'opc'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 14\n', 'LIT "S", 0\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc', 'cuando'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 14\n', 'LIT "S", 0\n', 'LOD opc, 0\n'])
+deque([';', '"r"', '"R"', ';', '"i"', 'opc'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 14\n', 'LIT "S", 0\n', 'LOD opc, 0\n', None])
+deque([';', '"r"', '"R"', ';', '"i"'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 14\n', 'LIT "S", 0\n', 'LOD opc, 0\n', None, 'LOD opc, 0\n'])
+deque([';', '"r"', '"R"', ';'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 14\n', 'LIT "S", 0\n', 'LOD opc, 0\n', None, 'LOD opc, 0\n', 'LIT "i", 0\n'])
+deque([';', '"r"', '"R"'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 14\n', 'LIT "S", 0\n', 'LOD opc, 0\n', None, 'LOD opc, 0\n', 'LIT "i", 0\n', None])
+deque([';', '"r"'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 14\n', 'LIT "S", 0\n', 'LOD opc, 0\n', None, 'LOD opc, 0\n', 'LIT "i", 0\n', None, 'LIT "R", 0\n'])
+deque([';'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 14\n', 'LIT "S", 0\n', 'LOD opc, 0\n', None, 'LOD opc, 0\n', 'LIT "i", 0\n', None, 'LIT "R", 0\n', 'LIT "r", 0\n'])
+deque([None, 'LOD n, 0\n', 'LOD FacRec, 0\n', None, None, 'LOD n, 0\n', None, 'OPR 0, 9\n', None, 'LOD n, 0\n', None, 'LOD n, 0\n', None, None, None, 'OPR 0, 16\n', 'OPR 0, 14\n', 'LIT "s", 0\n', 'LOD opc, 0\n', 'OPR 0, 14\n', 'LIT "S", 0\n', 'LOD opc, 0\n', None, 'LOD opc, 0\n', 'LIT "i", 0\n', None, 'LIT "R", 0\n', 'LIT "r", 0\n', None])
+[found] estatuto
+[found] block
+[found] full funcion
+[found] params
+[found] gpoids_dim Facto None
+[found] gpo_vars
+ENTERO E
+deque(['Entero', 'FacRec', 'func', ';', 'n', 'Entero', 'Facto'])
+deque([])
+Facto,V,E,[0 0],None,{},#,
+
+deque(['Entero', 'FacRec', 'func', ';', 'n', 'Entero'])
+deque([])
+Entero,V,E,[0 0],None,{},#,
+
+deque(['Entero', 'FacRec', 'func', ';', 'n'])
+deque([])
+n,V,E,[0 0],None,{},#,
+
+deque(['Entero', 'FacRec', 'func', ';'])
+deque([])
+[found] variables
+[found] udim
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] estatuto
+[found] udim
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] simple termino 2
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] udim
+[found] simple termino Facto
+[found] signo
+[found] exponent
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] estatuto
+[found] bckesp
+[found] desde
+[found] estatuto
+[found] block
+[found] block
+[found] full funcion
+[found] params
+[found] variables
+[found] simple termino PI
+[found] signo
+[found] exponent
+[found] simple termino radio
+[found] signo
+[found] simple termino 2
+[found] signo
+[found] exponent
+[found] exponent
+[found] simple termino altura
+[found] signo
+[found] exponent
+[found] multi
+[found] multi
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] regresa
+[found] estatuto
+[found] block
+[found] full funcion
+[found] params
+[found] variables
+[found] simple termino a
+[found] signo
+[found] exponent
+[found] multi
+[found] simple termino " "
+[found] signo
+[found] exponent
+[found] multi
+[found] simple termino b
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] expr
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] regresa
+[found] estatuto
+[found] block
+[found] full funcion
+[found] params
+[found] params
+[found] variables
+[found] simple termino opc
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino a
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino b
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] regresa
+[found] estatuto
+[found] bckesp
+[found] simple termino opc
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino 2
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino a
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino b
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] regresa
+[found] estatuto
+[found] bckesp
+[found] simple termino opc
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino 3
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino a
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino b
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] regresa
+[found] estatuto
+[found] bckesp
+[found] sino
+[found] si
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2', '=', 'a', 'b', '>', 'opc', '3', '=', 'a', 'b', '=', 'SI'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2', '=', 'a', 'b', '>', 'opc', '3', '=', 'a', 'b', '='])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2', '=', 'a', 'b', '>', 'opc', '3', '=', 'a', 'b', '='])
+deque([])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2', '=', 'a', 'b', '>', 'opc', '3', '=', 'a', 'b'])
+deque(['OPR 0, 14\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2', '=', 'a', 'b', '>', 'opc', '3', '=', 'a'])
+deque(['OPR 0, 14\n', None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2', '=', 'a', 'b', '>', 'opc', '3', '='])
+deque(['OPR 0, 14\n', None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2', '=', 'a', 'b', '>', 'opc', '3'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2', '=', 'a', 'b', '>', 'opc'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2', '=', 'a', 'b', '>'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2', '=', 'a', 'b'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2', '=', 'a'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2', '='])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc', '2'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<', 'opc'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b', '<'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a', 'b'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '=', 'a'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1', '='])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc', '1'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real', 'opc'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero', 'real'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc', 'entero'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';', 'opc'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a', ';'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b', 'a'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';', 'b'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func', ';'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat', 'func'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico', 'Concat'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+', 'Alfabetico'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+', '+'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b', '+'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "', 'b'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a', '" "'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico', 'a'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a', 'alfabetico'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b', 'a'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';', 'b'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func', ';'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil', 'func'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real', 'VolCil'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*', 'Real'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*', '*'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura', '*'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^', 'altura'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2', '^'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio', '2'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI', 'radio'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real', 'PI'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio', 'Real'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura', 'radio'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';', 'altura'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func', ';'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter', 'func'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero', 'FacIter'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None, None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*', 'Entero'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None, None, 'LOD FacIter, 0\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i', '*'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None, None, 'LOD FacIter, 0\n', 'LOD Entero, 0\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto', 'i'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None, None, 'LOD FacIter, 0\n', 'LOD Entero, 0\n', None])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2', 'Facto'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None, None, 'LOD FacIter, 0\n', 'LOD Entero, 0\n', None, 'LOD i, 0\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n', '2'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None, None, 'LOD FacIter, 0\n', 'LOD Entero, 0\n', None, 'LOD i, 0\n', 'LOD Facto, 0\n'])
+deque(['Entero', 'FacRec', 'func', '1', 'n'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None, None, 'LOD FacIter, 0\n', 'LOD Entero, 0\n', None, 'LOD i, 0\n', 'LOD Facto, 0\n', None])
+deque(['Entero', 'FacRec', 'func', '1'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None, None, 'LOD FacIter, 0\n', 'LOD Entero, 0\n', None, 'LOD i, 0\n', 'LOD Facto, 0\n', None, 'LOD n, 0\n'])
+deque(['Entero', 'FacRec', 'func'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None, None, 'LOD FacIter, 0\n', 'LOD Entero, 0\n', None, 'LOD i, 0\n', 'LOD Facto, 0\n', None, 'LOD n, 0\n', None])
+deque(['Entero', 'FacRec'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None, None, 'LOD FacIter, 0\n', 'LOD Entero, 0\n', None, 'LOD i, 0\n', 'LOD Facto, 0\n', None, 'LOD n, 0\n', None, None])
+deque(['Entero'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None, None, 'LOD FacIter, 0\n', 'LOD Entero, 0\n', None, 'LOD i, 0\n', 'LOD Facto, 0\n', None, 'LOD n, 0\n', None, None, 'LOD FacRec, 0\n'])
+deque(['OPR 0, 14\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 10\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', 'OPR 0, 9\n', None, None, 'OPR 0, 14\n', None, 'LOD opc, 0\n', None, None, 'LOD opc, 0\n', None, None, None, None, None, None, None, None, None, None, 'LIT " ", 0\n', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'LOD PI, 0\n', None, None, None, None, None, 'LOD FacIter, 0\n', 'LOD Entero, 0\n', None, 'LOD i, 0\n', 'LOD Facto, 0\n', None, 'LOD n, 0\n', None, None, 'LOD FacRec, 0\n', 'LOD Entero, 0\n'])
+[found] estatuto
+[found] bckesp
+[found] sino
+[found] si
+deque(['SI'])
+deque([])
+deque([])
+[found] estatuto
+[found] bckesp
+[found] sino
+[found] si
+deque(['SI'])
+deque([])
+deque([])
+[found] estatuto
+[found] block
+[found] full funcion
+[found] variables
+[found] begin (
+begin deque(['Logico', 'Compara', 'func'])
+[found] simple termino "Dame elementos de Vector( N ) o Grado de Matriz( NxN ): "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] imprime func
+b4 deque([';', 'Logico', 'Compara', 'func', ';', '"Dame elementos de Vector( N ) o Grado de Matriz( NxN ): "'])
+deque([';', 'Logico', 'Compara', 'func', ';', '"Dame elementos de Vector( N ) o Grado de Matriz( NxN ): "', 'IMPRIME', ';'])
+deque([';', 'Logico', 'Compara', 'func', ';', '"Dame elementos de Vector( N ) o Grado de Matriz( NxN ): "', 'IMPRIME', ';'])
+[found] estatuto
+[found] lee n )
+[found] estatuto
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] lfunc
+[found] estatuto
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] lfunc
+[found] estatuto
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] lfunc
+[found] estatuto
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] lfunc
+[found] estatuto
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+Syntax error at 'valor' (VALOR), in line: 81, col 1936
+Expected logical expression in function call 81
+[found] estatuto
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] lfunc
+[found] estatuto
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] full procedimiento
+[found] variables
+[found] udim
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] simple termino 10
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+Syntax error at 'Inicio' (INICIO), in line: 88, col 2048
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino 5
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] estatuto
+[found] bckesp
+[found] sino
+[found] si
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat', 'n', 'n', 'ImpMat', 'LeeVecMat', 'proc', '1', '10', 'i', '5', '=', 'SI'])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat', 'n', 'n', 'ImpMat', 'LeeVecMat', 'proc', '1', '10', 'i', '5', '='])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat', 'n', 'n', 'ImpMat', 'LeeVecMat', 'proc', '1', '10', 'i', '5', '='])
+deque([])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat', 'n', 'n', 'ImpMat', 'LeeVecMat', 'proc', '1', '10', 'i', '5'])
+deque(['OPR 0, 14\n'])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat', 'n', 'n', 'ImpMat', 'LeeVecMat', 'proc', '1', '10', 'i'])
+deque(['OPR 0, 14\n', None])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat', 'n', 'n', 'ImpMat', 'LeeVecMat', 'proc', '1', '10'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n'])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat', 'n', 'n', 'ImpMat', 'LeeVecMat', 'proc', '1'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat', 'n', 'n', 'ImpMat', 'LeeVecMat', 'proc'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat', 'n', 'n', 'ImpMat', 'LeeVecMat'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat', 'n', 'n', 'ImpMat'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat', 'n', 'n'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n'])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat', 'n'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n'])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n', 'LeeMat'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n'])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec', 'n'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n', 'LOD LeeMat, 0\n'])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n', 'Impvec'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n', 'LOD LeeMat, 0\n', 'LOD n, 0\n'])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec', 'n'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n', 'LOD LeeMat, 0\n', 'LOD n, 0\n', None])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n', 'OrdVec'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n', 'LOD LeeMat, 0\n', 'LOD n, 0\n', None, 'LOD n, 0\n'])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec', 'n'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n', 'LOD LeeMat, 0\n', 'LOD n, 0\n', None, 'LOD n, 0\n', 'LOD OrdVec, 0\n'])
+deque([';', 'Logico', 'Compara', 'func', 'n', 'LeeVec'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n', 'LOD LeeMat, 0\n', 'LOD n, 0\n', None, 'LOD n, 0\n', 'LOD OrdVec, 0\n', 'LOD n, 0\n'])
+deque([';', 'Logico', 'Compara', 'func', 'n'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n', 'LOD LeeMat, 0\n', 'LOD n, 0\n', None, 'LOD n, 0\n', 'LOD OrdVec, 0\n', 'LOD n, 0\n', 'LOD LeeVec, 0\n'])
+deque([';', 'Logico', 'Compara', 'func'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n', 'LOD LeeMat, 0\n', 'LOD n, 0\n', None, 'LOD n, 0\n', 'LOD OrdVec, 0\n', 'LOD n, 0\n', 'LOD LeeVec, 0\n', 'LOD n, 0\n'])
+deque([';', 'Logico', 'Compara'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n', 'LOD LeeMat, 0\n', 'LOD n, 0\n', None, 'LOD n, 0\n', 'LOD OrdVec, 0\n', 'LOD n, 0\n', 'LOD LeeVec, 0\n', 'LOD n, 0\n', None])
+deque([';', 'Logico'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n', 'LOD LeeMat, 0\n', 'LOD n, 0\n', None, 'LOD n, 0\n', 'LOD OrdVec, 0\n', 'LOD n, 0\n', 'LOD LeeVec, 0\n', 'LOD n, 0\n', None, None])
+deque([';'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n', 'LOD LeeMat, 0\n', 'LOD n, 0\n', None, 'LOD n, 0\n', 'LOD OrdVec, 0\n', 'LOD n, 0\n', 'LOD LeeVec, 0\n', 'LOD n, 0\n', None, None, None])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None, None, None, None, 'LOD ImpMat, 0\n', 'LOD n, 0\n', 'LOD n, 0\n', 'LOD LeeMat, 0\n', 'LOD n, 0\n', None, 'LOD n, 0\n', 'LOD OrdVec, 0\n', 'LOD n, 0\n', 'LOD LeeVec, 0\n', 'LOD n, 0\n', None, None, None, None])
+[found] estatuto
+[found] begin (
+begin deque([])
+[found] simple termino "i= "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] gpoexp
+[found] imprimenl func
+b4 deque(['"i= "', 'i'])
+deque([';', '"i= "', 'i', 'IMPRIMENL', ';'])
+[found] estatuto
+[found] block
+[found] block
+[found] bckesp
+Expected incr/decr in desde 88
+[found] estatuto
+[found] udim
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] estatuto
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino 7
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] estatuto
+[found] bckesp
+[found] sino
+[found] si
+deque(['1', 'i', '7', '=', 'SI'])
+deque(['1', 'i', '7', '='])
+deque(['1', 'i', '7', '='])
+deque([])
+deque(['1', 'i', '7'])
+deque(['OPR 0, 14\n'])
+deque(['1', 'i'])
+deque(['OPR 0, 14\n', None])
+deque(['1'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n'])
+deque(['OPR 0, 14\n', None, 'LOD i, 0\n', None])
+[found] estatuto
+[found] block
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino 10
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] repetir
+[found] estatuto
+[found] block
+[found] block
+[found] block
+[found] full procedimiento
+[found] params
+[found] variables
+[found] udim
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+Syntax error at 'hata' (IDENT), in line: 101, col 2293
+[found] asigna
+[found] estatuto
+[found] estatuto
+[found] estatuto
+[found] begin (
+begin deque(['i', '10', '=', 'Test', 'proc', ';', 'k', 'Entero', '1'])
+[found] simple termino "Vector["
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino "]: "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] imprime func
+b4 deque([';', 'i', '10', '=', 'Test', 'proc', ';', 'k', 'Entero', '1', ';', '"Vector["', 'i', '"]: "'])
+deque([';', 'i', '10', '=', 'Test', 'proc', ';', 'k', 'Entero', '1', ';', '"Vector["', 'i', '"]: "', 'IMPRIME', ';'])
+deque([';', 'i', '10', '=', 'Test', 'proc', ';', 'k', 'Entero', '1', ';', '"Vector["', 'i', '"]: "', 'IMPRIME', ';'])
+[found] estatuto
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] valor
+[found] dimension [ None ]
+[found] lee_dim Lee ( Vector None )
+deque([';', 'i', '10', '=', 'Test', 'proc', ';', 'k', 'Entero', '1', 'i', 'dim', 'Vector', 'LEE_DIM', ';'])
+deque([';', 'i', '10', '=', 'Test', 'proc', ';', 'k', 'Entero', '1', 'i', 'dim'])
+deque([';', 'i', '10', '=', 'Test', 'proc', ';', 'k', 'Entero', '1'])
+deque([';', 'i', '10', '=', 'Test', 'proc', ';', 'k', 'Entero'])
+deque([';', 'i', '10', '=', 'Test', 'proc', ';', 'k'])
+deque([';', 'i', '10', '=', 'Test', 'proc', ';'])
+deque([';', 'i', '10', '=', 'Test', 'proc'])
+deque([';', 'i', '10', '=', 'Test'])
+deque([';', 'i', '10', '='])
+deque([';', 'i', '10'])
+deque([';', 'i'])
+deque([';'])
+[found] estatuto
+[found] block
+[found] block
+Expected PUNTO_COMA at the end of line 102
+Expected PUNTO_COMA at the end of line 101
+Expected PUNTO_COMA at the end of line 101
+Syntax error at ';' (PUNTO_COMA), in line: 105, col 2374
+[found] estatuto
+[found] estatuto
+[found] block
+Expected PUNTO_COMA at the end of line 105
+[found] full procedimiento
+[found] params
+[found] gpoids_dim Temp None
+[found] gpo_vars
+ENTERO E
+deque(['LeeVec', 'proc', ';', 'k', 'entero', 'Temp'])
+deque([])
+Temp,V,E,[0 0],None,{},#,
+
+deque(['LeeVec', 'proc', ';', 'k', 'entero'])
+deque([])
+entero,V,E,[0 0],None,{},#,
+
+deque(['LeeVec', 'proc', ';', 'k'])
+deque([])
+k,V,E,[0 0],None,{},#,
+
+deque(['LeeVec', 'proc', ';'])
+deque([])
+[found] variables
+[found] udim
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+Syntax error at '(' (PAREN_EMPIEZA), in line: 111, col 2492
+[found] complex termino
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] estatuto
+[found] bckesp
+Expected incr/decr in desde 111
+[found] estatuto
+[found] udim
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] simple termino k
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+Syntax error at 'Si' (SI), in line: 113, col 2546
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] udim
+[found] udim
+[found] complex termino
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino j
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] udim
+[found] udim
+[found] complex termino
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] estatuto
+[found] bckesp
+[found] sino
+[found] si
+deque(['LeeVec', 'proc', '1', 'i', '1', '+', 'k', 'i', 'j', '>', 'SI'])
+deque(['LeeVec', 'proc', '1', 'i', '1', '+', 'k', 'i', 'j', '>'])
+deque(['LeeVec', 'proc', '1', 'i', '1', '+', 'k', 'i', 'j', '>'])
+deque([])
+deque(['LeeVec', 'proc', '1', 'i', '1', '+', 'k', 'i', 'j'])
+deque(['OPR 0, 10\n'])
+deque(['LeeVec', 'proc', '1', 'i', '1', '+', 'k', 'i'])
+deque(['OPR 0, 10\n', 'LOD j, 0\n'])
+deque(['LeeVec', 'proc', '1', 'i', '1', '+', 'k'])
+deque(['OPR 0, 10\n', 'LOD j, 0\n', 'LOD i, 0\n'])
+deque(['LeeVec', 'proc', '1', 'i', '1', '+'])
+deque(['OPR 0, 10\n', 'LOD j, 0\n', 'LOD i, 0\n', 'LOD k, 0\n'])
+deque(['LeeVec', 'proc', '1', 'i', '1'])
+deque(['OPR 0, 10\n', 'LOD j, 0\n', 'LOD i, 0\n', 'LOD k, 0\n', None])
+deque(['LeeVec', 'proc', '1', 'i'])
+deque(['OPR 0, 10\n', 'LOD j, 0\n', 'LOD i, 0\n', 'LOD k, 0\n', None, None])
+deque(['LeeVec', 'proc', '1'])
+deque(['OPR 0, 10\n', 'LOD j, 0\n', 'LOD i, 0\n', 'LOD k, 0\n', None, None, 'LOD i, 0\n'])
+deque(['LeeVec', 'proc'])
+deque(['OPR 0, 10\n', 'LOD j, 0\n', 'LOD i, 0\n', 'LOD k, 0\n', None, None, 'LOD i, 0\n', None])
+deque(['LeeVec'])
+deque(['OPR 0, 10\n', 'LOD j, 0\n', 'LOD i, 0\n', 'LOD k, 0\n', None, None, 'LOD i, 0\n', None, None])
+deque(['OPR 0, 10\n', 'LOD j, 0\n', 'LOD i, 0\n', 'LOD k, 0\n', None, None, 'LOD i, 0\n', None, None, 'LOD LeeVec, 0\n'])
+[found] estatuto
+[found] bckesp
+Expected incr/decr in desde 113
+[found] estatuto
+Syntax error at 'Fin' (FIN), in line: 114, col 2577
+Expected PUNTO_COMA at the end of line 114
+Expected PUNTO_COMA at the end of line 111
+[found] full procedimiento
+[found] params
+[found] variables
+[found] udim
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] simple termino k
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+Syntax error at 'Imprimenl' (IMPRIMENL), in line: 119, col 2678
+[found] begin (
+begin deque(['OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k'])
+[found] simple termino "Vector["
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino "]= "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] udim
+[found] udim
+[found] complex termino
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] imprimenl func
+b4 deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', ';', '"Vector["', 'i', '"]= "', 'i'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', ';', '"Vector["', 'i', '"]= "', 'i', 'IMPRIMENL', ';'])
+[found] estatuto
+[found] bckesp
+Expected incr/decr in desde 119
+[found] estatuto
+[found] block
+[found] full procedimiento
+[found] params
+[found] variables
+[found] udim
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+Syntax error at 'Desde' (DESDE), in line: 125, col 2820
+[found] udim
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] simple termino n
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+Syntax error at 'Inicio' (INICIO), in line: 126, col 2857
+[found] begin (
+begin deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n'])
+[found] simple termino "Matriz["
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino "]["
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino j
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino "]: "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] imprime func
+b4 deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', ';', '"Matriz["', 'i', '"]["', 'j', '"]: "'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', ';', '"Matriz["', 'i', '"]["', 'j', '"]: "', 'IMPRIME', ';'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', ';', '"Matriz["', 'i', '"]["', 'j', '"]: "', 'IMPRIME', ';'])
+[found] estatuto
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] valor
+[found] simple termino j
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] valor
+[found] dimension [ None ]
+[found] dimension [ None ]
+[found] lee_dim Lee ( Matriz None )
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'Matriz', 'LEE_DIM', ';'])
+[found] estatuto
+[found] block
+[found] block
+[found] bckesp
+Expected incr/decr in desde 126
+[found] estatuto
+[found] bckesp
+Expected incr/decr in desde 125
+[found] estatuto
+[found] block
+[found] full procedimiento
+[found] params
+[found] variables
+[found] udim
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] simple termino k
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+Syntax error at 'Desde' (DESDE), in line: 135, col 3054
+[found] udim
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] simple termino k
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+Syntax error at 'Matriz' (IDENT), in line: 136, col 3094
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino j
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] udim
+[found] udim
+[found] udim
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino j
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] udim
+[found] udim
+[found] udim
+[found] complex termino
+[found] signo
+[found] exponent
+[found] simple termino v
+[found] signo
+[found] exponent
+[found] multi
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] estatuto
+[found] bckesp
+Expected incr/decr in desde 136
+[found] estatuto
+[found] bckesp
+Expected incr/decr in desde 135
+[found] estatuto
+[found] block
+[found] full procedimiento
+[found] params
+[found] variables
+[found] udim
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] simple termino k
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+Syntax error at 'Desde' (DESDE), in line: 142, col 3225
+[found] udim
+[found] simple termino 1
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] asigna
+[found] simple termino k
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+Syntax error at 'Imprimenl' (IMPRIMENL), in line: 143, col 3265
+[found] begin (
+begin deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k'])
+[found] simple termino "Matriz["
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino "]["
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino j
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino "]= "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino i
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] simple termino j
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] udim
+[found] udim
+[found] udim
+[found] complex termino
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] imprimenl func
+b4 deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', ';', '"Matriz["', 'i', '"]["', 'j', '"]= "', 'i', 'j'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', ';', '"Matriz["', 'i', '"]["', 'j', '"]= "', 'i', 'j', 'IMPRIMENL', ';'])
+[found] estatuto
+[found] bckesp
+Expected incr/decr in desde 143
+[found] estatuto
+[found] bckesp
+Expected incr/decr in desde 142
+[found] estatuto
+[found] block
+[found] full procedimiento
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] funcproc
+[found] estatuto
+[found] complex termino
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] lfunc
+[found] estatuto
+[found] begin (
+begin deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona'])
+[found] simple termino "Dame Radio = "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] imprime func
+b4 deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"Dame Radio = "'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"Dame Radio = "', 'IMPRIME', ';'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"Dame Radio = "', 'IMPRIME', ';'])
+[found] estatuto
+[found] lee r )
+[found] estatuto
+[found] begin (
+begin deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona'])
+[found] simple termino "Dame Altura= "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] imprime func
+b4 deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"Dame Altura= "'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"Dame Altura= "', 'IMPRIME', ';'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"Dame Altura= "', 'IMPRIME', ';'])
+[found] estatuto
+[found] lee s )
+[found] estatuto
+[found] begin (
+begin deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona'])
+[found] simple termino "El Volum del Cilindro= "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino r
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino s
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] uparams
+[found] lfunc
+[found] complex termino
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+Syntax error at ';' (PUNTO_COMA), in line: 151, col 3504
+[found] gpoexp
+[found] gpoexp
+Expected parenthesis at the end of IMPRIMENL statement 151
+[found] estatuto
+[found] begin (
+begin deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil'])
+[found] simple termino "Es el radio= "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino r
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino " mayor que Altura= "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino s
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino " ? "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino r
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino s
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino 2
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] uparams
+[found] uparams
+[found] lfunc
+[found] complex termino
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] imprimenl func
+b4 deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', ';', '"Es el radio= "', 'r', '" mayor que Altura= "', 's', '" ? "', 'r', 's', '2', 'Compara'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', ';', '"Es el radio= "', 'r', '" mayor que Altura= "', 's', '" ? "', 'r', 's', '2', 'Compara', 'IMPRIMENL', ';'])
+[found] estatuto
+[found] complex termino
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] lfunc
+[found] estatuto
+[found] begin (
+begin deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', 'LeeVecmat'])
+[found] simple termino "Dame tu nombre: "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] imprime func
+b4 deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', 'LeeVecmat', ';', '"Dame tu nombre: "'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', 'LeeVecmat', ';', '"Dame tu nombre: "', 'IMPRIME', ';'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', 'LeeVecmat', ';', '"Dame tu nombre: "', 'IMPRIME', ';'])
+[found] estatuto
+[found] lee alfa )
+[found] estatuto
+[found] begin (
+begin deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', 'LeeVecmat'])
+[found] simple termino "Dame tu Apellido: "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] imprime func
+b4 deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', 'LeeVecmat', ';', '"Dame tu Apellido: "'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', 'LeeVecmat', ';', '"Dame tu Apellido: "', 'IMPRIME', ';'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', 'LeeVecmat', ';', '"Dame tu Apellido: "', 'IMPRIME', ';'])
+[found] estatuto
+[found] lee beta )
+[found] estatuto
+[found] begin (
+begin deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', 'LeeVecmat'])
+[found] simple termino "Hola "
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino alfa
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino beta
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] uparams
+[found] uparams
+[found] lfunc
+[found] complex termino
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] simple termino " ya la pasaste!!!"
+[found] signo
+[found] exponent
+[found] multi
+[found] expr
+[found] oprel
+[found] opno
+[found] opy
+[found] exprlog
+[found] gpoexp
+[found] gpoexp
+[found] gpoexp
+[found] imprimenl func
+b4 deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', 'LeeVecmat', ';', '"Hola "', 'alfa', 'beta', 'Concat', '" ya la pasaste!!!"'])
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', 'LeeVecmat', ';', '"Hola "', 'alfa', 'beta', 'Concat', '" ya la pasaste!!!"', 'IMPRIMENL', ';'])
+[found] estatuto
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[found] block
+[]
+["81\tvalor\t<syntax>Syntax error at 'valor' (VALOR), in line: 81, col 1936\t   MulMat(n, valor);\n\n", '81\tvalor\t<syntax>Expected logical expression in function call\t   MulMat(n, valor);\n\n', "88\tInicio\t<syntax>Syntax error at 'Inicio' (INICIO), in line: 88, col 2048\t   Inicio\n\n", '88\tInicio\t<syntax>Expected incr/decr in desde\t   Inicio\n\n', "101\thata\t<syntax>Syntax error at 'hata' (IDENT), in line: 101, col 2293\t   Desde el valor de i:=1 hata n\n\n", '102\tInicio\t<syntax>Expected PUNTO_COMA at the end of line\t   Inicio\n\n', '101\tn\t<syntax>Expected PUNTO_COMA at the end of line\t   Desde el valor de i:=1 hata n\n\n', '101\thata\t<syntax>Expected PUNTO_COMA at the end of line\t   Desde el valor de i:=1 hata n\n\n', "105\t;\t<syntax>Syntax error at ';' (PUNTO_COMA), in line: 105, col 2374\t   Fin;\n\n", '105\t;\t<syntax>Expected PUNTO_COMA at the end of line\t   Fin;\n\n', "111\t(\t<syntax>Syntax error at '(' (PAREN_EMPIEZA), in line: 111, col 2492\t   Desde el valor de i:=1 hasta (k-1)\n\n", '111\t(\t<syntax>Expected incr/decr in desde\t   Desde el valor de i:=1 hasta (k-1)\n\n', "113\tSi\t<syntax>Syntax error at 'Si' (SI), in line: 113, col 2546\t         Si (Vector[i]>Vector[j]) hacer\n\n", '113\tSi\t<syntax>Expected incr/decr in desde\t         Si (Vector[i]>Vector[j]) hacer\n\n', "114\tFin\t<syntax>Syntax error at 'Fin' (FIN), in line: 114, col 2577\tFin de Procedimiento;\n\n", '114\tFin\t<syntax>Expected PUNTO_COMA at the end of line\tFin de Procedimiento;\n\n', '111\t-\t<syntax>Expected PUNTO_COMA at the end of line\t   Desde el valor de i:=1 hasta (k-1)\n\n', '119\tImprimenl\t<syntax>Syntax error at \'Imprimenl\' (IMPRIMENL), in line: 119, col 2678\t      Imprimenl("Vector[",i,"]= ", Vector[i]);\n\n', '119\tImprimenl\t<syntax>Expected incr/decr in desde\t      Imprimenl("Vector[",i,"]= ", Vector[i]);\n\n', "125\tDesde\t<syntax>Syntax error at 'Desde' (DESDE), in line: 125, col 2820\t      Desde el valor de j:=1 hasta n\n\n", "126\tInicio\t<syntax>Syntax error at 'Inicio' (INICIO), in line: 126, col 2857\t      Inicio\n\n", '126\tInicio\t<syntax>Expected incr/decr in desde\t      Inicio\n\n', '125\tDesde\t<syntax>Expected incr/decr in desde\t      Desde el valor de j:=1 hasta n\n\n', "135\tDesde\t<syntax>Syntax error at 'Desde' (DESDE), in line: 135, col 3054\t      Desde el valor de j:=1 hasta k\n\n", "136\tMatriz\t<syntax>Syntax error at 'Matriz' (IDENT), in line: 136, col 3094\t         Matriz[i][j]:=Matriz[i][j]*v;\n\n", '136\tMatriz\t<syntax>Expected incr/decr in desde\t         Matriz[i][j]:=Matriz[i][j]*v;\n\n', '135\tDesde\t<syntax>Expected incr/decr in desde\t      Desde el valor de j:=1 hasta k\n\n', "142\tDesde\t<syntax>Syntax error at 'Desde' (DESDE), in line: 142, col 3225\t      Desde el valor de j:=1 hasta k\n\n", '143\tImprimenl\t<syntax>Syntax error at \'Imprimenl\' (IMPRIMENL), in line: 143, col 3265\t         Imprimenl("Matriz[", i, "][", j, "]= ", Matriz[i][j]);\n\n', '143\tImprimenl\t<syntax>Expected incr/decr in desde\t         Imprimenl("Matriz[", i, "][", j, "]= ", Matriz[i][j]);\n\n', '142\tDesde\t<syntax>Expected incr/decr in desde\t      Desde el valor de j:=1 hasta k\n\n', '151\t;\t<syntax>Syntax error at \';\' (PUNTO_COMA), in line: 151, col 3504\t   Imprimenl("El Volum del Cilindro= ", VolCil(r, s);\n\n', '151\t;\t<syntax>Expected parenthesis at the end of IMPRIMENL statement \t   Imprimenl("El Volum del Cilindro= ", VolCil(r, s);\n\n']
+MAX,C,E,0,0,#,
+PI,C,R,0,0,#,
+Log1,V,L,0,0,#,
+Log2,V,L,0,0,#,
+Alfa,V,A,0,0,#,
+Beta,V,A,0,0,#,
+r,V,R,0,0,#,
+s,V,R,0,0,#,
+t,V,R,0,0,#,
+i,V,E,0,0,#,
+j,V,E,0,0,#,
+k,V,E,0,0,P,E,0,0,LeeVec,P,E,0,0,OrdVec,P,E,0,0,MulMat,#,
+matriz,V,E,30,30,#,
+Vector,V,E,30,0,#,
+n,V,E,2,0,P,E,0,0,FacRec,P,E,0,0,FacIter,#,
+FacRec,F,E,0,0,#,
+FacIter,F,E,0,0,#,
+LeeVec,P,I,0,0,#,
+LeeMat,P,I,0,0,#,
+OrdVec,P,I,0,0,#,
+ImpMat,P,I,0,0,#,
+MulMat,P,I,0,0,#,
+opc,V,E,0,0,#,
+Facto,V,E,0,0,#,
+Entero,V,E,0,0,#,
+Temp,V,E,0,0,#,
+entero,V,E,0,0,#,
+
+deque([';', 'OrdVec', 'proc', ';', 'k', 'Entero', '1', 'k', 'ImpVec', 'proc', ';', 'k', 'entero', '1', 'n', '1', 'n', 'i', 'j', 'dim', 'dim', 'LeeMat', 'proc', ';', 'v', 'k', 'entero', '1', 'k', '1', 'k', 'i', 'j', 'i', 'j', 'v', '*', 'MulMat', 'proc', ';', 'k', 'Entero', '1', 'k', '1', 'k', 'ImpMat', 'proc', 'Selecciona', ';', '"El Volum del Cilindro= "', 'r', 's', 'VolCil', 'LeeVecmat'])

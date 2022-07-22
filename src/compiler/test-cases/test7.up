@@ -1,0 +1,10 @@
+Constantes c := 10;
+Variables alfa, beta:Alfabetico;
+Prototipos
+
+Fin de Prototipos;
+
+Programa
+  Imprimenl("hello world!");
+
+Fin de programa.

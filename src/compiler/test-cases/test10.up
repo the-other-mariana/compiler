@@ -1,0 +1,15 @@
+Constantes c := 10;
+Variables response:Alfabetico;
+Prototipos
+
+Fin de Prototipos;
+Procedimiento Selecciona()
+Variables opc:Entero;
+Inicio
+   Imprime("insert a number:");
+   Lee(opc);
+   Imprimenl("The number is ", opc);
+Fin de Procedimiento;
+Programa
+    Selecciona();
+Fin de programa.

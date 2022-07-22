@@ -1,0 +1,9 @@
+c,C,E,0,0,#,
+response,V,A,0,0,#,
+opc,V,E,0,0,#,
+@
+1 LIT "insert a number:", 0
+2 OPR 0, 20
+3 OPR opc, 19
+4 LIT opc, 0
+5 OPR 0, 21

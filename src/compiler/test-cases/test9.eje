@@ -1,0 +1,11 @@
+c,C,E,0,0,#,
+response,V,A,0,0,#,
+@
+1 LIT "do you like burgers? y/n", 0
+2 OPR 0, 21
+3 OPR response, 19
+4 LIT "Me too", 0
+5 OPR 0, 20
+8 LOD response, 0
+7 LIT "y", 0
+6 OPR 0, 14

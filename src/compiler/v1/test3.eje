@@ -1,0 +1,242 @@
+MAX,C,E,0,0,#,
+PI,C,R,0,0,#,
+Log1,V,L,0,0,#,
+Log2,V,L,0,0,#,
+Alfa,V,A,0,0,#,
+Beta,V,A,0,0,#,
+r,V,R,0,0,#,
+s,V,R,0,0,#,
+t,V,R,0,0,#,
+i,V,E,0,0,#,
+j,V,E,0,0,#,
+k,V,E,0,0,P,E,0,0,LeeVec,P,E,0,0,OrdVec,P,E,0,0,MulMat,#,
+matriz,V,E,30,30,#,
+Vector,V,E,30,0,#,
+n,V,E,2,0,P,E,0,0,FacRec,P,E,0,0,FacIter,#,
+FacRec,F,E,0,0,#,
+FacIter,F,E,0,0,#,
+LeeVec,P,I,0,0,#,
+LeeMat,P,I,0,0,#,
+OrdVec,P,I,0,0,#,
+ImpMat,P,I,0,0,#,
+MulMat,P,I,0,0,#,
+opc,V,E,0,0,#,
+Facto,V,E,0,0,#,
+Entero,V,E,0,0,#,
+Temp,V,E,0,0,#,
+entero,V,E,0,0,#,
+@
+1 LIT "Dame un numero: ", 0
+2 OPR 0, 20
+3 OPR n, 19
+4 LIT "Factorial R]recursivo I]interactivo S]salir: ", 0
+5 OPR 0, 20
+6 OPR opc, 19
+7 LIT FacRec, 0
+8 OPR 0, 21
+9 LIT "Opcion Invalida!!!", 0
+10 OPR 0, 21
+34 LIT "r", 0
+33 LIT "R", 0
+32 LIT "i", 0
+31 LOD opc, 0
+30 LOD opc, 0
+29 LIT "S", 0
+28 OPR 0, 14
+27 LOD opc, 0
+26 LIT "s", 0
+25 OPR 0, 14
+24 OPR 0, 16
+23 LOD n, 0
+22 LOD n, 0
+21 OPR 0, 9
+20 LOD n, 0
+19 LOD FacRec, 0
+18 LOD n, 0
+53 LOD Entero, 0
+52 LOD FacRec, 0
+51 LOD n, 0
+50 LOD Facto, 0
+49 LOD i, 0
+48 LOD Entero, 0
+47 LOD FacIter, 0
+46 LOD PI, 0
+45 LIT " ", 0
+44 LOD opc, 0
+43 LOD opc, 0
+42 OPR 0, 14
+41 OPR 0, 9
+40 LOD opc, 0
+39 OPR 0, 14
+38 OPR 0, 10
+37 LOD opc, 0
+36 OPR 0, 14
+35 OPR 0, 14
+54 LIT "Dame elementos de Vector( N ) o Grado de Matriz( NxN ): ", 0
+55 OPR 0, 20
+56 OPR n, 19
+68 LOD n, 0
+67 LOD LeeVec, 0
+66 LOD n, 0
+65 LOD OrdVec, 0
+64 LOD n, 0
+63 LOD n, 0
+62 LOD LeeMat, 0
+61 LOD n, 0
+60 LOD n, 0
+59 LOD ImpMat, 0
+58 LOD i, 0
+57 OPR 0, 14
+69 LIT i, 0
+70 OPR 0, 21
+72 LOD i, 0
+71 OPR 0, 14
+73 LIT "]: ", 0
+74 OPR 0, 20
+75 LOD i, 0
+76 STO 0, Vector
+82 LOD LeeVec, 0
+81 LOD i, 0
+80 LOD k, 0
+79 LOD i, 0
+78 LOD j, 0
+77 OPR 0, 10
+83 LIT i, 0
+84 OPR 0, 21
+85 LIT "]: ", 0
+86 OPR 0, 20
+87 LIT j, 0
+88 OPR 0, 21
+89 LIT "Dame Radio = ", 0
+90 OPR 0, 20
+91 OPR r, 19
+92 LIT "Dame Altura= ", 0
+93 OPR 0, 20
+94 OPR s, 19
+95 LIT "Dame tu nombre: ", 0
+96 OPR 0, 20
+97 LIT "Dame tu Apellido: ", 0
+98 OPR 0, 20
+99 LIT " ya la pasaste!!!", 0
+100 OPR 0, 21
+MAX,C,E,0,0,#,
+PI,C,R,0,0,#,
+Log1,V,L,0,0,#,
+Log2,V,L,0,0,#,
+Alfa,V,A,0,0,#,
+Beta,V,A,0,0,#,
+r,V,R,0,0,#,
+s,V,R,0,0,#,
+t,V,R,0,0,#,
+i,V,E,0,0,#,
+j,V,E,0,0,#,
+k,V,E,0,0,P,E,0,0,LeeVec,P,E,0,0,OrdVec,P,E,0,0,MulMat,#,
+matriz,V,E,30,30,#,
+Vector,V,E,30,0,#,
+n,V,E,2,0,P,E,0,0,FacRec,P,E,0,0,FacIter,#,
+FacRec,F,E,0,0,#,
+FacIter,F,E,0,0,#,
+LeeVec,P,I,0,0,#,
+LeeMat,P,I,0,0,#,
+OrdVec,P,I,0,0,#,
+ImpMat,P,I,0,0,#,
+MulMat,P,I,0,0,#,
+opc,V,E,0,0,#,
+Facto,V,E,0,0,#,
+Entero,V,E,0,0,#,
+Temp,V,E,0,0,#,
+entero,V,E,0,0,#,
+@
+1 LIT "Dame un numero: ", 0
+2 OPR 0, 20
+3 OPR n, 19
+4 LIT "Factorial R]recursivo I]interactivo S]salir: ", 0
+5 OPR 0, 20
+6 OPR opc, 19
+7 LIT FacRec, 0
+8 OPR 0, 21
+9 LIT "Opcion Invalida!!!", 0
+10 OPR 0, 21
+34 LIT "r", 0
+33 LIT "R", 0
+32 LIT "i", 0
+31 LOD opc, 0
+30 LOD opc, 0
+29 LIT "S", 0
+28 OPR 0, 14
+27 LOD opc, 0
+26 LIT "s", 0
+25 OPR 0, 14
+24 OPR 0, 16
+23 LOD n, 0
+22 LOD n, 0
+21 OPR 0, 9
+20 LOD n, 0
+19 LOD FacRec, 0
+18 LOD n, 0
+53 LOD Entero, 0
+52 LOD FacRec, 0
+51 LOD n, 0
+50 LOD Facto, 0
+49 LOD i, 0
+48 LOD Entero, 0
+47 LOD FacIter, 0
+46 LOD PI, 0
+45 LIT " ", 0
+44 LOD opc, 0
+43 LOD opc, 0
+42 OPR 0, 14
+41 OPR 0, 9
+40 LOD opc, 0
+39 OPR 0, 14
+38 OPR 0, 10
+37 LOD opc, 0
+36 OPR 0, 14
+35 OPR 0, 14
+54 LIT "Dame elementos de Vector( N ) o Grado de Matriz( NxN ): ", 0
+55 OPR 0, 20
+56 OPR n, 19
+68 LOD n, 0
+67 LOD LeeVec, 0
+66 LOD n, 0
+65 LOD OrdVec, 0
+64 LOD n, 0
+63 LOD n, 0
+62 LOD LeeMat, 0
+61 LOD n, 0
+60 LOD n, 0
+59 LOD ImpMat, 0
+58 LOD i, 0
+57 OPR 0, 14
+69 LIT i, 0
+70 OPR 0, 21
+72 LOD i, 0
+71 OPR 0, 14
+73 LIT "]: ", 0
+74 OPR 0, 20
+75 LOD i, 0
+76 STO 0, Vector
+82 LOD LeeVec, 0
+81 LOD i, 0
+80 LOD k, 0
+79 LOD i, 0
+78 LOD j, 0
+77 OPR 0, 10
+83 LIT i, 0
+84 OPR 0, 21
+85 LIT "]: ", 0
+86 OPR 0, 20
+87 LIT j, 0
+88 OPR 0, 21
+89 LIT "Dame Radio = ", 0
+90 OPR 0, 20
+91 OPR r, 19
+92 LIT "Dame Altura= ", 0
+93 OPR 0, 20
+94 OPR s, 19
+95 LIT "Dame tu nombre: ", 0
+96 OPR 0, 20
+97 LIT "Dame tu Apellido: ", 0
+98 OPR 0, 20
+99 LIT " ya la pasaste!!!", 0
+100 OPR 0, 21
